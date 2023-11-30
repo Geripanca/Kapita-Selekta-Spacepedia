@@ -1,6 +1,6 @@
 // components/Navbar.jsx
 import React, { useState } from "react";
-import "/src/components/welcome.jsx";
+import "./Welcome.jsx";
 
 const Navbar = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
