@@ -16,7 +16,7 @@ const Welcome = () => {
         </div>
       </div>
       <div className="hidden lg:flex items-center">
-        <img src="../public/Ilustrasi-Astronot.png" alt="Ilustrasi" className="w-1/2 h-auto mx-auto mt-20 floating-image" />
+        <img src="./Ilustrasi-Astronot.png" alt="Ilustrasi" className="w-1/2 h-auto mx-auto mt-20 floating-image" />
       </div>
     </div>
   );

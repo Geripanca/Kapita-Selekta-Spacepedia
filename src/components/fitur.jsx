@@ -5,20 +5,20 @@ const Fitur = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const cardsData = [
     {
-      image: "./public/ilustrasi-materi.jpg",
+      image: "./ilustrasi-materi.jpg",
       title: "Materi",
       description: "Berisi Materi-materi.",
       buttonLabel: "Mulai",
       link: "/materi",
     },
     {
-      image: "./public/ilustrasi-VR.jpg",
+      image: "./ilustrasi-VR.jpg",
       title: "Virtual Reality",
       description: "Jalan-jalan dengan VR.",
       buttonLabel: "Mulai",
     },
     {
-      image: "./public/ilustrasi-AR.jpg",
+      image: "./ilustrasi-AR.jpg",
       title: "Augmented Reality",
       description: "Lihat secara langsung.",
       buttonLabel: "Mulai",
