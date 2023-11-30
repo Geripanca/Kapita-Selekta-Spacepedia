@@ -18,7 +18,7 @@ const Fitur = () => {
       buttonLabel: "Mulai",
     },
     {
-      image: "./ilustrasi-AR.jpg",
+      image: "./Ilustrasi-AR.jpg",
       title: "Augmented Reality",
       description: "Lihat secara langsung.",
       buttonLabel: "Mulai",
