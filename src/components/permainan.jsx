@@ -5,7 +5,7 @@ const Permainan = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const cardsData = [
     {
-      image: "../public/ilustrasi-kuis.jpg",
+      image: "./public/ilustrasi-kuis.jpg",
       title: "Kuis",
       description: "Uji pengetahuanmu!",
       buttonLabel: "Mulai",

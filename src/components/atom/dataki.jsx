@@ -40,7 +40,7 @@ const Dataki = () => {
       judul: "Apa itu sistem Tata Surya?",
       desc: (
         <div>
-          <img src="../public/ilustarasi-tatasurya.jpg" alt="ilustrasi tata surya" className="w-2/4 mx-auto" />
+          <img src="./public/ilustarasi-tatasurya.jpg" alt="ilustrasi tata surya" className="w-2/4 mx-auto" />
           <div class="bg-black text-sm text-center py-2">
             <p>Image source : Wikipedia</p>
           </div>
@@ -70,7 +70,7 @@ const Dataki = () => {
       judul: "Matahari",
       desc: (
         <div>
-          <img src="../public/ilustrasi-matahari.jpg" alt="gambar matahari" className="w-1/4 mx-auto" />
+          <img src="./public/ilustrasi-matahari.jpg" alt="gambar matahari" className="w-1/4 mx-auto" />
           <div class="bg-black text-sm text-center py-2">
             <p>Image source : Wikipedia</p>
           </div>
@@ -91,7 +91,7 @@ const Dataki = () => {
       judul: "Planet",
       desc: (
         <div>
-          <img src="../public/ilustrasi-planet.png" alt="gambar planet" className="w-1/4 mx-auto" />
+          <img src="./public/ilustrasi-planet.png" alt="gambar planet" className="w-1/4 mx-auto" />
           <div class="bg-black text-sm text-center py-2">
             <p>Image source : Wikipedia</p>
           </div>
@@ -122,7 +122,7 @@ const Dataki = () => {
       judul: "Asteroid",
       desc: (
         <div>
-          <img src="../public/ilustrasi-asteroid.jpg" alt="gambar asteroid" className="w-1/3 mx-auto" />
+          <img src="./public/ilustrasi-asteroid.jpg" alt="gambar asteroid" className="w-1/3 mx-auto" />
           <div class="bg-black text-sm text-center py-2">
             <p>Image source : Wikipedia</p>
           </div>
@@ -153,7 +153,7 @@ const Dataki = () => {
       judul: "Satelit Alami",
       desc: (
         <div>
-          <img src="../public/ilustrasi-bulan.jpg" alt="gambar bulan" className="w-1/3 mx-auto" />
+          <img src="./public/ilustrasi-bulan.jpg" alt="gambar bulan" className="w-1/3 mx-auto" />
           <div class="bg-black text-sm text-center py-2">
             <p>Image source : Wikipedia</p>
           </div>
@@ -172,7 +172,7 @@ const Dataki = () => {
       judul: "Satelit Buatan",
       desc: (
         <div className="mb-10">
-          <img src="../public/ilustrasi-satelitbuatan.jpg" alt="satelit buatan" className="w-1/4 mx-auto" />
+          <img src="./public/ilustrasi-satelitbuatan.jpg" alt="satelit buatan" className="w-1/4 mx-auto" />
           <div class="bg-black text-sm text-center py-2">
             <p>Image source : Wikipedia</p>
           </div>

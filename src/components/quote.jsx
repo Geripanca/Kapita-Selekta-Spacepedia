@@ -8,7 +8,7 @@ const Quote = () => {
         mengajarkan kita tentang kerendahan hati dan keingintahuan tak terbatas."
       </blockquote>
       <p className="text-md text-white italic text-right w-3/4 font-bold text-xl py-3"> ━ Carl Sagan</p>
-      <img src="../public/bumi-ilustrasi.jpg" alt="bumi-ilustrasi" className="w-full" />
+      <img src="./public/bumi-ilustrasi.jpg" alt="bumi-ilustrasi" className="w-full" />
     </div>
   );
 };
