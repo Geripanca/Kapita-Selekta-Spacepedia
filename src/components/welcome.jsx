@@ -1,6 +1,6 @@
 // components/Welcome.jsx
 import React, { useState } from "react";
-import "./Welcome.css";
+import "../index.css";
 
 const Welcome = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
