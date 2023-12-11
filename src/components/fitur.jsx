@@ -16,14 +16,20 @@ const Fitur = () => {
       title: "Virtual Reality",
       description: "Jalan-jalan dengan VR.",
       buttonLabel: "Mulai",
+      link: "https://hubs.mozilla.com/Fp2BgRb/",
     },
     {
       image: "./Ilustrasi-AR.jpg",
       title: "Augmented Reality",
       description: "Lihat secara langsung.",
       buttonLabel: "Mulai",
+      link: "https://webxr.run/gJNkgpE12AG27",
     },
   ];
+  const handleButtonClick = (link) => {
+    // Redirect to the external link
+    window.location.href = link;
+  };
 
   return (
     <div className="bg-black py-20">
