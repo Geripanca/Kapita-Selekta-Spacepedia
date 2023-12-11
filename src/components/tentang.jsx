@@ -11,7 +11,7 @@ const Tentang = () => {
           TENTANG
         </h1>
         <hr className="mx-auto w-16 border-t-2 border-white top-7 z-0 animate-pulse" />
-        <p className="text-justify mx-auto w-full sm:w-full md:w-full lg:w-2/3 xl:w-2/3 text-gray-700 text-base sm:text-base  lg:text-lg xl:text-xl p-4 sm:p-4 md:p-4 lg:p-4 xl:p-4">
+        <p className="text-justify mx-auto w-full sm:w-full md:w-full lg:w-2/3 xl:w-2/3 text-slate-400 text-base sm:text-base  lg:text-lg xl:text-xl p-4 sm:p-4 md:p-4 lg:p-4 xl:p-4">
           {" "}
           Selamat datang di <i>website</i> Spacepedia! Kami bangga memperkenalkan media pembelajaran inovatif kami yang didedikasikan untuk meningkatkan pemahaman siswa terhadap sains, khususnya dalam materi pengenalan luar angkasa.
           Spacepedia dirancang khusus untuk membuat pembelajaran luar angkasa menjadi lebih menarik dan modern. Kami menyajikan materi-materi berkualitas tinggi dengan menggunakan berbagai fitur canggih, termasuk teknologi{" "}

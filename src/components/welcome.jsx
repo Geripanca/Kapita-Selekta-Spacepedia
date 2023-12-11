@@ -9,7 +9,7 @@ const Welcome = () => {
       <div className="lg:flex lg:items-center lg:justify-center">
         <div className="text-center lg:text-left mt-12 mx-5">
           <h2 className="text-white text-4xl font-bold mb-4 animate-pulse">SPACEPEDIA</h2>
-          <p className="text-gray-700 text-1xl text-justify mb-6">
+          <p className="text-slate-400 text-1xl text-justify mb-6">
             Jelajahi keajaiban luar angkasa dengan sumber informasi terkini! Temukan rahasia planet, meteor, satelit, dan benda langit lainnya dengan fitur-fitur keren seperti <i>Augmented Reality</i> (AR) dan <i>Virtual Reality</i> (VR).
             Serta, nikmati pengalaman bermain game yang menghibur dan mendidik seputar kosmos yang begitu luas.
           </p>

@@ -11,7 +11,7 @@ const Flush = ({ judul, desc }) => {
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
           </svg>
         </summary>
-        <p class="mt-4 px-4 mx-10 leading-relaxed text-gray-700">{desc}</p>
+        <p class="mt-4 px-4 mx-10 leading-relaxed text-slate-400">{desc}</p>
       </details>
     </div>
   );
